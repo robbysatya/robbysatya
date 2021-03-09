@@ -1,4 +1,4 @@
-### Hi there welcom to my profile 👋
+### Hi there welcome to my profile 👋
 
 <!--
 **robbysatya/robbysatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
