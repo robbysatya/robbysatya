@@ -82,21 +82,11 @@ const robby = {
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robbysatya&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🌟 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🌐 Portfolio Website | Personal portfolio showcasing projects and experience |
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and experience  <a href="https://robbysatya.github.io"> Link Portofolio </a> |
 | 📱 Mobile App | Flutter & React Native applications |
 | 🎨 UI/UX Design | Figma Design System & Prototype |
 | ⚙️ Backend API | RESTful API with .NET / Laravel |
