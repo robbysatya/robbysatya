@@ -77,7 +77,7 @@ const robby = {
 ### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux"/>
+<img src="https://skillicons.dev/icons?i=gitlab,git,github,vscode,figma,postman,docker,linux"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ const robby = {
 
 | Project | Description |
 |----------|-------------|
-| 🌐 Portfolio Website | Personal portfolio showcasing projects and experience  <a href="https://robbysatya.github.io"> Link Portofolio </a> |
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and experience |
 | 📱 Mobile App | Flutter & React Native applications |
 | 🎨 UI/UX Design | Figma Design System & Prototype |
 | ⚙️ Backend API | RESTful API with .NET / Laravel |
@@ -108,6 +108,10 @@ const robby = {
 <a href="mailto:robbysatya12@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+ <a href="https://robbysatya.github.io"> 
+ <img src="https://skillicons.dev/icons?i=htmx"/>
+ </a> 
 
 </p>
 
